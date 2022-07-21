@@ -1,0 +1,14 @@
+.meals-summary {
+  color: rgb(255, 255, 255);
+  position: absolute;
+  top: 18%;
+  padding: 20px;
+  margin-left: 35%;
+}
+
+main {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px 40px;
+  border-radius: 10px;
+  position: relative;
+}

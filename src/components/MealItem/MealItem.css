@@ -1,0 +1,16 @@
+.price{
+ font-size: 1.5rem;
+ color:rgb(248, 212, 35);
+ font-weight: bold;
+}
+
+.name-dish{
+ font-weight: 800;
+ margin-bottom: 10px;
+}
+
+.wrapper-item{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+}
